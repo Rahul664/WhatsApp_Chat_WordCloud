@@ -1,5 +1,4 @@
 numpy
-csv
 pandas
 PIL
 wordcloud
